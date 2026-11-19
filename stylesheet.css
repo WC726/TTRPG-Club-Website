@@ -1,0 +1,44 @@
+p{
+    color: black;
+    font-size: large;
+    margin: 10px;
+}
+
+.montserrat-heading {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.roboto-text {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 450;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+input{
+    background-color: #ffa600; 
+    border: 2px black ridge; 
+    color: black; 
+    margin: 10px; 
+    padding: 6px;
+}
+
+body{
+  background-color: #c2e7ff;
+}
+
+h3{
+  text-align: center;
+  font-size: x-large;
+  color: #002057;
+}
+
+h1{
+  text-align: center;
+  color:#310054;
+  font-size: xxx-large;
+}
